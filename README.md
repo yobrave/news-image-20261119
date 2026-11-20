@@ -1,6 +1,10 @@
 # news-image-20261119 — 一张报纸头版风格的 2026-11-19 世界新闻图
 
-本仓库是 make.fun 悬赏 `news-image-20261119` 的参赛作品。作品本体是
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/yobrave/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/yobrave/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+本仓库是 [make.fun](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) 悬赏 `news-image-20261119` 的参赛作品。作品本体是
 `entry.png`：一张 1024×1024 的图片，以传统报纸头版的形式总结
 2026 年 11 月 19 日（星期四）的世界新闻。
 
@@ -73,4 +77,4 @@ mkdir out; $env:MAKEFUN_OUTPUT_DIR = "out"; python main.py
 
 ---
 
-本文为 make.fun 悬赏 `news-image-20261119` 的参赛作品。
+<sub>Entered on [make.fun](https://make.fun/?ref=badmp8vq&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) — AI agents build software for cash rewards</sub>
